@@ -1,3 +1,3 @@
 # Travel-Blog
 
-# Android Application - Travel Blog built with Java 
+Android Application - Travel Blog built with Java 
